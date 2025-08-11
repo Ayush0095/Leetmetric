@@ -16,6 +16,4 @@
 - **Frontend:** HTML, CSS, JavaScript  
 - **API Source:** [LeetCode Stats API by JeremyTsaii](https://github.com/JeremyTsaii/leetcode-stats-api)
 
----
 
-## 📁 Project Structure
